@@ -78,7 +78,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Suite Room</a></h3>
-		    						<p><span class="price mr-2">$120.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh2000.00</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 3 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
@@ -99,7 +99,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Family Room</a></h3>
-		    						<p><span class="price mr-2">$20.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh4000</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 3 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
@@ -120,7 +120,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Deluxe Room</a></h3>
-		    						<p><span class="price mr-2">$150.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh5000.00</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 5 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
@@ -141,7 +141,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Classic Room</a></h3>
-		    						<p><span class="price mr-2">$130.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh1300.00</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 5 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
@@ -162,7 +162,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Superior Room</a></h3>
-		    						<p><span class="price mr-2">$300.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh4500.00</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 6 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
@@ -183,7 +183,7 @@
 		    					</a>
 		    					<div class="text p-3 text-center">
 		    						<h3 class="mb-3"><a href="rooms-single.html">Luxury Room</a></h3>
-		    						<p><span class="price mr-2">$500.00</span> <span class="per">per night</span></p>
+		    						<p><span class="price mr-2">ksh6000.00</span> <span class="per">per hour</span></p>
 		    						<ul class="list">
 		    							<li><span>Max:</span> 5 Persons</li>
 		    							<li><span>Size:</span> 45 m2</li>
