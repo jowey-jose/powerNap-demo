@@ -1,4 +1,4 @@
-# powerNap-demo
+# powerNap-demo, Demonstrating How to upload A html web project to Heroku.
 A demo about the power app application. This repo is to set it up on heroku. 
 I firstly changed my web files from .html to .php extensions.
 I then added composer.json files on my root project.
